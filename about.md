@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 Recent graduate of the BrainStation Data Science Diploma Program
-Amateur climber
+Amateur climber and runner
 Cookie enthusiast
 
 ### Contact me

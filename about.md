@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Recent graduate of the BrainStation Data Science Diploma Program
-Amateur climber and runner
-Cookie enthusiast
+Recent graduate of the BrainStation Data Science Diploma Program, Amateur climber and runner, Cookie enthusiast
 
-### Contact me
+## Contact me
 
-[leannalo104@gail.com](mailto:leannalo104@gmail.com)
+[leannalo104@gmail.com](mailto:leannalo104@gmail.com)
